@@ -80,4 +80,7 @@ typings/
 # FuseBox cache
 .fusebox/
 
+# Keys File
+keys.js
+
 # End of https://www.gitignore.io/api/node
